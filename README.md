@@ -1,5 +1,5 @@
 -  Heyy there, I’m Fatima Tanzeem.
--  a passionate Data Analyst with a strong interest in exploring and deriving insights from complex datasets.
+-  A passionate Data Analyst with a strong interest in exploring and deriving insights from complex datasets.
 -  I am dedicated to continuous learning and improvement, making progress day by day.
   
 
